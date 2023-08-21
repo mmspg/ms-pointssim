@@ -1,2 +1,3 @@
-# ms-pointssim
-This repository contains the code for the multi scale PointSSIM (MS-PointSSIM) point cloud objective quality metric
+# MS-PointSSIM: Multiscale Point Cloud Structural Similarity Metric
+
+In this repository, the code for the MS-PointSSIM will be included soon!
