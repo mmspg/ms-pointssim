@@ -22,6 +22,6 @@ If you wish to use any of the provided scripts in your research, we kindly ask y
 
 ## References 
 
-[1] D. Lazzarotto and T. Ebrahimi, "Towards a Multiscale Point Cloud Structural Similarity Metric," 2023 IEEE International Workshop on Multimedia Signal Processing (MMSP), Poitiers, France, 2023, 
+[1] D. Lazzarotto and T. Ebrahimi, "Towards a Multiscale Point Cloud Structural Similarity Metric," 2023 IEEE International Workshop on Multimedia Signal Processing (MMSP), Poitiers, France, 2023.
 
 [2] E. Alexiou and T. Ebrahimi, "Towards a Point Cloud Structural Similarity Metric," 2020 IEEE International Conference on Multimedia & Expo Workshops (ICMEW), London, United Kingdom, 2020, pp. 1-6. doi: 10.1109/ICMEW46912.2020.9106005
