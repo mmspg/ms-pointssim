@@ -14,6 +14,8 @@ The pre-built script `run_example.m` can be used to compute the MS-PointSSIM ove
 
 ## Conditions of use
 
+This repository contains code adapted from the PointSSIM metric (https://github.com/mmspg/pointssim). 
+
 Permission is hereby granted, without written agreement and without license or royalty fees, to use, copy, modify, and distribute the data provided and its documentation for research purpose only. The data provided may not be commercially distributed. In no event shall the Ecole Polytechnique Fédérale de Lausanne (EPFL) be liable to any party for direct, indirect, special, incidental, or consequential damages arising out of the use of the data and its documentation. The Ecole Polytechnique Fédérale de Lausanne (EPFL) specifically disclaims any warranties. The data provided hereunder is on an “as is” basis and the Ecole Polytechnique Fédérale de Lausanne (EPFL) has no obligation to provide maintenance, support, updates, enhancements, or modifications.
 
 If you wish to use any of the provided scripts in your research, we kindly ask you to cite [1].
